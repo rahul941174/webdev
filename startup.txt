@@ -1,0 +1,19 @@
+java
+data structure and algorithm
+android developer(android studio)
+freelancing 
+app building
+play store
+nodeJ express server(back end)
+react(front end)
+figma(for design)
+1.gifts delivery application
+2.job finding application
+3.brand identifier app
+4.book parking slot app
+5.movie dubbing app
+zero to one(vertical progress)
+ 
+
+1. costumer satisfaction(is costumer getting profit?)
+2.own profit source should be calculated beforehand
